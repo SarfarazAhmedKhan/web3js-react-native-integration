@@ -6,7 +6,7 @@ This is a simple guide to get you started with using the Ethereum Javascript API
 
 - web3js
 
-## Few things that needed to be installed after cloning the App that are mentioned below
+## Few things that needed to be installed after cloning the App are mentioned below
 
 - npm i --save react-native-crypto
 - npm i --save react-native-randombytes
